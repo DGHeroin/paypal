@@ -2,6 +2,9 @@
 [![Build Status](https://travis-ci.org/plutov/paypal.svg?branch=master)](https://travis-ci.org/plutov/paypal)
 [![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/plutov/paypal)
 
+[中文文档](README_zh_cn.md)
+
+
 ### Go client for PayPal REST API
 
 Currently supports **v2** only, if you want to use **v1**, use **v1.1.4** git tag.
